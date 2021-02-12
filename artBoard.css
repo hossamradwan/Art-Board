@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+button{
+    background-color: greenyellow;
+    border: none;
+    border-radius: 15px;
+}
+
+input{
+    background-color: greenyellow;
+    border: none;
+    margin-top: 15px;
+}
+canvas{
+    margin-top: 20px;
+}
